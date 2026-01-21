@@ -859,9 +859,3 @@ This is a learning project demonstrating event-driven microservices architecture
 - Optimize existing code
 - Enhance documentation
 
-
-
-## Support
-
-For issues, questions, or suggestions, please refer to the troubleshooting section above or review the service logs for detailed error information.
-
