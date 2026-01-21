@@ -844,11 +844,4 @@ docker-compose logs worker | grep "Database"
 - [ ] Multi-region deployment support
 - [ ] Backup and disaster recovery procedures
 
-### Observability
-- [ ] Distributed tracing (Jaeger)
-- [ ] APM integration (DataDog, New Relic)
-- [ ] Enhanced metrics collection
-- [ ] Custom dashboard for notification analytics
-- [ ] Alerting rules for anomalies
-
 
