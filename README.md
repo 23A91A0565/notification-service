@@ -809,21 +809,4 @@ docker stats
 docker-compose logs worker | grep "Database"
 ```
 
-## Future Improvements
-
-### Short Term
-- [ ] Add rate limiting to API endpoints
-- [ ] Implement pagination for notification retrieval
-- [ ] Add notification filtering endpoints (GET /api/notifications)
-- [ ] Enhanced error messages with error codes
-- [ ] Batch processing capabilities for bulk notifications
-
-### Medium Term
-- [ ] WebSocket support for real-time notifications
-- [ ] Notification templates and rendering engine
-- [ ] Multi-language support (i18n)
-- [ ] User notification preferences/subscription management
-- [ ] Message expiration and TTL support
-- [ ] Prometheus metrics and Grafana dashboards
-
 
