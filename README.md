@@ -826,22 +826,4 @@ docker-compose logs worker | grep "Database"
 - [ ] Message expiration and TTL support
 - [ ] Prometheus metrics and Grafana dashboards
 
-### Long Term
-- [ ] Notification delivery channel abstraction (Email, SMS, Push, Webhook)
-- [ ] Advanced retry strategies (exponential backoff with jitter)
-- [ ] Event sourcing for audit trail
-- [ ] Distributed tracing with OpenTelemetry
-- [ ] Machine learning for optimal send time prediction
-- [ ] Horizontal scaling with multiple workers
-- [ ] Kafka integration for higher throughput scenarios
-- [ ] GraphQL API for complex queries
-
-### Infrastructure
-- [ ] Kubernetes deployment manifests
-- [ ] Helm charts for production deployment
-- [ ] CI/CD pipeline setup (GitHub Actions/GitLab CI)
-- [ ] Security: API key management, encryption at rest
-- [ ] Multi-region deployment support
-- [ ] Backup and disaster recovery procedures
-
 
