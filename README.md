@@ -851,11 +851,4 @@ docker-compose logs worker | grep "Database"
 - [ ] Custom dashboard for notification analytics
 - [ ] Alerting rules for anomalies
 
-## Contributing
-
-This is a learning project demonstrating event-driven microservices architecture. Feel free to:
-- Submit improvements and bug fixes
-- Add new features
-- Optimize existing code
-- Enhance documentation
 
