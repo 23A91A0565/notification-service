@@ -5,6 +5,7 @@ const rabbitmq = require('./rabbitmq');
 const NotificationProcessor = require('./services/notificationProcessor');
 const NotificationConsumer = require('./consumers/notificationConsumer');
 
+
 // Initialize and start worker
 async function startWorker() {
   try {
