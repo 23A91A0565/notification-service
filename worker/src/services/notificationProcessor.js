@@ -6,6 +6,7 @@ class NotificationProcessor {
     this.maxRetries = parseInt(process.env.MAX_RETRIES || 3, 10);
   }
 
+  
   async processNotification(messageData) {
     const client = await this.databaseClient.getPool().connect();
     
