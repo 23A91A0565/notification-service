@@ -17,7 +17,6 @@ A robust, scalable notification service built with Node.js, RabbitMQ, and Postgr
 - [Monitoring and Logs](#monitoring-and-logs)
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
-- [Future Improvements](#future-improvements)
 
 ## Features
 
