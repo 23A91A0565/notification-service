@@ -5,6 +5,7 @@ describe('NotificationProcessor', () => {
   let processor;
   let mockClient;
 
+  
   beforeEach(() => {
     mockClient = {
       query: jest.fn(),
