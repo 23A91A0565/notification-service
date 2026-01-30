@@ -57,6 +57,7 @@ class RabbitMQClient {
     }
   }
 
+  
   async assertQueue(queueName, options = {}) {
     try {
       const defaultOptions = {
