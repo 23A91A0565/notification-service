@@ -9,7 +9,6 @@ const NotificationPublisher = require('./services/notificationPublisher');
 const createNotificationRoutes = require('./routes/notificationRoutes');
 
 const app = express();
-
 // Middleware
 app.use(cors());
 app.use(express.json());
