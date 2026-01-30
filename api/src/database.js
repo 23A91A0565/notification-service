@@ -14,7 +14,6 @@ class DatabaseClient {
         connectionTimeoutMillis: 5000,
       });
 
-      // Test connection
       const client = await this.pool.connect();
       await client.query('SELECT NOW()');
       client.release();
